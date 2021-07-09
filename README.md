@@ -1,5 +1,5 @@
 @ -1,2 +1,87 @@
-# I'm Alwis. Phd candidate student in Southern Illinois University Carbodnale in USA. I am interested to explore new theory and methodologies related in statistics, perticularly in univariate or multivariate time series analysis.  
+### I'm Alwis. Phd candidate student in Southern Illinois University Carbodnale in USA. I am interested to explore new theory and methodologies related in statistics, perticularly in univariate or multivariate time series analysis.  
 
 ### Connect with me:
 [<img align="left" alt="TharinduPDeAlwis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
