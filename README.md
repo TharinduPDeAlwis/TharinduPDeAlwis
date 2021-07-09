@@ -8,7 +8,7 @@
 [<img align="left" alt="TharinduPDeAlwis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 _______
-<img align="left" alt="TharinduPDeAlwis's GitHub Stats" src="https://github-readme-stats.TharinduPDeAlwis.vercel.app/api?username=TharinduPDeAlwis&show_icons=true&hide_border=true" />
+ <img align="left" alt="TharinduPDeAlwis's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TharinduPDeAlwis&show_icons=true&hide_border=true" />
 
 [website]: https://tharindupersonalinfo.blogspot.com/
 [youtube]: https://www.youtube.com/channel/UCuG4h7i1d9T4M7kUVlQU4HA
