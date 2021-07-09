@@ -1,5 +1,5 @@
 @ -1,2 +1,87 @@
-### I'm Alwis currently a PhD candidate student @SIUC in USA. I am interested to explore new theories and methodologies related in statistics, perticularly in univariate or multivariate time series analysis. Moreover, I like to distribute new finding through the usefull R packages to encourage reserachers in this feild. I love to spend my free time with my guitar. 
+### I'm Alwis, currently a PhD candidate student @SIUC in USA. I am interested to explore new theories and methodologies related in statistics, perticularly in univariate or multivariate time series analysis. Moreover, I like to distribute new finding through the usefull R packages to encourage reserachers in this feild. I love to spend my free time with my guitar. ????
 
 ### Connect with me:
 [<img align="left" alt="TharinduPDeAlwis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
