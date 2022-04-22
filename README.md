@@ -1,6 +1,6 @@
 @ -1,2 +1,87 @@
 ## Hi, there !! 
-### I'm Tharindu Alwis, currently a Ph.D. candidate student at Southern Illinois University Carbondale (SIUC) in the USA. I am interested to explore new theories and methodologies related to statistics, particularly in univariate or multivariate time series analysis. Moreover, I like to distribute new findings through the useful R packages to encourage researchers in this field. I love to spend my free time with my guitar.
+### I am Tharindu De Alwis, currently a Ph.D. candidate student at Southern Illinois University Carbondale (SIUC) in the USA. I am interested to explore new theories and methodologies related to statistics, particularly in univariate or multivariate time series analysis. Moreover, I like to distribute new algorithm through software packages such as R package or MATHLAB toolbox to encourage researchers in this field. I love to spend my free time with my guitar.
 
 ### Connect with me:
 [<img align="left" alt="TharinduPDeAlwis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
