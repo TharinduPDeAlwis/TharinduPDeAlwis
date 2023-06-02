@@ -11,7 +11,7 @@
 _______
  <img align="left" alt="TharinduPDeAlwis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TharinduPDeAlwis&show_icons=true&theme=radical" />
 
-[website]: https://tharindupersonalinfo.blogspot.com/
+[website]: https://www.wpi.edu/people/faculty/talwis
 [youtube]: https://www.youtube.com/channel/UCuG4h7i1d9T4M7kUVlQU4HA
 [instagram]: https://instagram.com/TharinduPDeAlwis
 [linkedin]: https://www.linkedin.com/in/t-priyan-de-alwis-321b7447/
