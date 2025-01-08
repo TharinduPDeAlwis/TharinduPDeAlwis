@@ -1,6 +1,6 @@
 @ -1,2 +1,87 @@
 ## Hi, there !! 
-### I am Tharindu De Alwis, an Assistant professor in University of West Florida. I am interested in exploring new theories and methodologies related to statistics, particularly in multivariate time series analysis and spatial-temporl data analysis. Moreover, I like to distribute new algorithms through software packages to encourage researchers in this field. I love to spend my free time with my guitar.
+### I am Tharindu De Alwis who is an Assistant professor in University of West Florida. I am interested in exploring new theories and methodologies related to statistics, particularly in multivariate time series analysis and spatial-temporl data analysis. Moreover, I like to distribute new algorithms through software packages to encourage researchers in this field. I love to spend my free time with my guitar.
 
 ### Connect with me:
 [<img align="left" alt="TharinduPDeAlwis.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
